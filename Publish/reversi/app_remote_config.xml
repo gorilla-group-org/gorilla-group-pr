@@ -670,65 +670,65 @@
 
 <ThemeImages>
   <Theme name="Classic"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Classic_1.jpg"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Classic_2.jpg"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Classic_1.jpg"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Classic_2.jpg"/>
   <Theme name="Ocean"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Ocean_1.jpg"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Ocean_2.jpg"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Ocean_1.jpg"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Ocean_2.jpg"/>
   <Theme name="Forest"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Forest_1.jpg"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Forest_2.jpg"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Forest_1.jpg"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Forest_2.jpg"/>
   <Theme name="Neon"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Neon_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Neon_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Neon_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Neon_2.png"/>
   <Theme name="Cyber Red"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Cyber Red_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Cyber Red_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Cyber Red_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Cyber Red_2.png"/>
   <Theme name="Graphite"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Graphite_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Graphite_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Graphite_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Graphite_2.png"/>
   <Theme name="Nature"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Nature_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Nature_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Nature_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Nature_2.png"/>
   <Theme name="Royal Gold"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Royal Gold_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Royal Gold_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Royal Gold_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Royal Gold_2.png"/>
   <Theme name="Sakura"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Sakura_1.jpg"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Sakura_2.jpg"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Sakura_1.jpg"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Sakura_2.jpg"/>
   <Theme name="Lavender"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Lavender_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Lavender_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Lavender_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Lavender_2.png"/>
   <Theme name="Mint Calm"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Mint Calm_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Mint Calm_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Mint Calm_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Mint Calm_2.png"/>
   <Theme name="Rose Gold"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Rose Gold_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Rose Gold_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Rose Gold_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Rose Gold_2.png"/>
   <Theme name="DarkForest"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/DarkForest_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/DarkForest_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/DarkForest_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/DarkForest_2.png"/>
   <Theme name="New Year"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/New Year_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/New Year_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/New Year_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/New Year_2.png"/>
   <Theme name="Halloween"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Halloween_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Halloween_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Halloween_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Halloween_2.png"/>
   <Theme name="Valentine"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Valentine_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Valentine_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Valentine_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Valentine_2.png"/>
   <Theme name="Lucky Clover"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Lucky Clover_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Lucky Clover_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Lucky Clover_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Lucky Clover_2.png"/>
   <Theme name="Easter"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Easter_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Easter_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Easter_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Easter_2.png"/>
   <Theme name="Thanksgiving"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Thanksgiving_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Thanksgiving_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Thanksgiving_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Thanksgiving_2.png"/>
   <Theme name="Summer"
-          phoneUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Summer_1.png"
-          tabletUrl="https://tic-tac-toe-dev-a4076.web.app/Fons/Summer_2.png"/>
+          phoneUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Summer_1.png"
+          tabletUrl="https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/fons/Summer_2.png"/>
 </ThemeImages>
 
 
@@ -737,9 +737,9 @@
   -->
   <AppLinks>
     <Link name="GooglePlay">https://tic-tac-toe-dev-a4076.web.app/apps_catalog.GooglePlay.json</Link>
-    <Link name="RuStore">https://tic-tac-toe-dev-a4076.web.app/apps_catalog.RuStore.json</Link>
+    <Link name="RuStore">https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/apps_catalog.RuStore.json</Link>
     <Link name="AppGallery">https://tic-tac-toe-dev-a4076.web.app/apps_catalog.AppGallery.json</Link>
-  </AppLinks>  
+  </AppLinks>
 
   <PromoCodes>
     <Promo hash="A3B4675C109BE9E30D5D9AA6BACDB06EC3DDB337FEC55F950A84E7CCAA3285D4" coins="1000" expiresAt="2026-09-30T23:59:59Z" />
