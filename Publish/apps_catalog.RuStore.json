@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "icon": "https://tic-tac-toe-dev-a4076.web.app/icon_pr/icon_transparent_512.png",
+      "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/icon_transparent_512.png",
       "status": "popular",
       "url_app": "https://www.rustore.ru/catalog/app/gorilla_group.tic_tac_toe",
       "loc": {
@@ -63,7 +63,7 @@
       }
     },
     {
-      "icon": "https://tic-tac-toe-dev-a4076.web.app/icon_pr/reversi_icon_512.png",
+      "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/reversi_icon_512.png",
       "status": "coming_soon",
       "url_app": "",
       "loc": {
@@ -125,63 +125,63 @@
       }
     },
     {
-      "icon": "https://tic-tac-toe-dev-a4076.web.app/icon_pr/words_icon_512_notext.png",
+      "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/infection_512.png",
       "status": "coming_soon",
       "url_app": "",
       "loc": {
         "ru": {
-          "name": "Слова",
-          "shortDescription": "Составляй слова из букв и набирай очки",
+          "name": "Инфекция",
+          "shortDescription": "Распространяй инфекцию и захватывай мир",
           "installsDescription": "Скоро в каталоге"
         },
         "en": {
-          "name": "Words",
-          "shortDescription": "Form words from letters and score points",
+          "name": "Infection",
+          "shortDescription": "Spread the infection and take over the world",
           "installsDescription": "Coming soon"
         },
         "uk": {
-          "name": "Слова",
-          "shortDescription": "Складай слова з літер і набирай очки",
+          "name": "Інфекція",
+          "shortDescription": "Поширюй інфекцію та захоплюй світ",
           "installsDescription": "Незабаром у каталозі"
         },
         "pl": {
-          "name": "Słowa",
-          "shortDescription": "Układaj słowa z liter i zdobywaj punkty",
+          "name": "Infekcja",
+          "shortDescription": "Rozprzestrzeniaj infekcję i przejmuj świat",
           "installsDescription": "Wkrótce w katalogu"
         },
         "ro": {
-          "name": "Cuvinte",
-          "shortDescription": "Formează cuvinte din litere și câștigă puncte",
+          "name": "Infecție",
+          "shortDescription": "Răspândește infecția și cucerește lumea",
           "installsDescription": "În curând în catalog"
         },
         "kk": {
-          "name": "Сөздер",
-          "shortDescription": "Әріптерден сөздер құрап, ұпай жинаңыз",
+          "name": "Инфекция",
+          "shortDescription": "Инфекцияны таратып, әлемді басып ал",
           "installsDescription": "Жақында каталогта"
         },
         "uz": {
-          "name": "So‘zlar",
-          "shortDescription": "Harflardan so‘zlar tuzing va ochko to‘plang",
+          "name": "Infeksiya",
+          "shortDescription": "Infeksiyani tarqatib, dunyoni egallang",
           "installsDescription": "Tez orada katalogda"
         },
         "az": {
-          "name": "Sözlər",
-          "shortDescription": "Hərflərdən sözlər düzəldin və xal toplayın",
+          "name": "İnfeksiya",
+          "shortDescription": "İnfeksiyanı yay və dünyanı ələ keçir",
           "installsDescription": "Tezliklə kataloqda"
         },
         "tr": {
-          "name": "Kelimeler",
-          "shortDescription": "Harflerden kelimeler oluştur ve puan kazan",
+          "name": "Enfeksiyon",
+          "shortDescription": "Enfeksiyonu yay ve dünyayı ele geçir",
           "installsDescription": "Yakında katalogda"
         },
         "mn": {
-          "name": "Үгс",
-          "shortDescription": "Үсгүүдээр үг бүтээж оноо цуглуулаарай",
+          "name": "Халдвар",
+          "shortDescription": "Халдварыг тарааж, дэлхийг эзлээрэй",
           "installsDescription": "Удахгүй каталогт"
         },
         "default": {
-          "name": "Words",
-          "shortDescription": "Form words from letters and score points",
+          "name": "Infection",
+          "shortDescription": "Spread the infection and take over the world",
           "installsDescription": "Coming soon"
         }
       }
