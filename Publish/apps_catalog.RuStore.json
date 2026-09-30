@@ -1,6 +1,7 @@
 {
   "apps": [
     {
+      "id": "tic_tac_toe",
       "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/icon_transparent_512.png",
       "status": "popular",
       "url_app": "https://www.rustore.ru/catalog/app/gorilla_group.tic_tac_toe",
@@ -63,6 +64,7 @@
       }
     },
     {
+	  "id": "reversi",
       "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/reversi_icon_512.png",
       "status": "coming_soon",
       "url_app": "",
@@ -125,6 +127,7 @@
       }
     },
     {
+	  "id": "infection",	
       "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/infection_512.png",
       "status": "coming_soon",
       "url_app": "",
