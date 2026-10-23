@@ -64,70 +64,70 @@
       }
     },
     {
-	  "id": "reversi",
+      "id": "reversi",
       "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/reversi_icon_512.png",
-      "status": "coming_soon",
-      "url_app": "",
+      "status": "popular",
+      "url_app": "https://www.rustore.ru/catalog/app/gorilla_group.reversi",
       "loc": {
         "ru": {
           "name": "Реверси",
           "shortDescription": "Стратегическая настольная игра на переворачивание фишек",
-          "installsDescription": "Скоро в каталоге"
+          "installsDescription": "До 1 000 установок"
         },
         "en": {
           "name": "Reversi",
           "shortDescription": "Strategic board game of flipping discs",
-          "installsDescription": "Coming soon"
+          "installsDescription": "Up to 1,000 installs"
         },
         "uk": {
           "name": "Реверсі",
           "shortDescription": "Стратегічна настільна гра з перевертанням фішок",
-          "installsDescription": "Незабаром у каталозі"
+          "installsDescription": "До 1 000 встановлень"
         },
         "pl": {
           "name": "Reversi",
           "shortDescription": "Strategiczna gra planszowa polegająca na odwracaniu pionków",
-          "installsDescription": "Wkrótce w katalogu"
+          "installsDescription": "Do 1 000 instalacji"
         },
         "ro": {
           "name": "Reversi",
           "shortDescription": "Joc de strategie în care întorci piesele",
-          "installsDescription": "În curând în catalog"
+          "installsDescription": "Până la 1.000 de instalări"
         },
         "kk": {
           "name": "Реверси",
           "shortDescription": "Фишкаларды аударуға негізделген стратегиялық үстел ойыны",
-          "installsDescription": "Жақында каталогта"
+          "installsDescription": "1 000-ға дейін орнату"
         },
         "uz": {
           "name": "Reversi",
           "shortDescription": "Donalarni ag‘darishga asoslangan strategik stol o‘yini",
-          "installsDescription": "Tez orada katalogda"
+          "installsDescription": "1 000 tagacha o‘rnatish"
         },
         "az": {
           "name": "Reversi",
           "shortDescription": "Daşları çevirməyə əsaslanan strateji stolüstü oyun",
-          "installsDescription": "Tezliklə kataloqda"
+          "installsDescription": "1 000-ə qədər quraşdırma"
         },
         "tr": {
           "name": "Reversi",
           "shortDescription": "Diskleri çevirmeye dayalı stratejik masa oyunu",
-          "installsDescription": "Yakında katalogda"
+          "installsDescription": "1.000’e kadar yükleme"
         },
         "mn": {
           "name": "Реверси",
           "shortDescription": "Дискнүүдийг эргүүлэн тоглодог стратегийн ширээний тоглоом",
-          "installsDescription": "Удахгүй каталогт"
+          "installsDescription": "1,000 хүртэл суулгалт"
         },
         "default": {
           "name": "Reversi",
           "shortDescription": "Strategic board game of flipping discs",
-          "installsDescription": "Coming soon"
+          "installsDescription": "Up to 1,000 installs"
         }
       }
     },
     {
-	  "id": "infection",	
+      "id": "infection",
       "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/infection_512.png",
       "status": "coming_soon",
       "url_app": "",
