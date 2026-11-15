@@ -1,0 +1,598 @@
+{
+  "apps": [
+    {
+      "id": "tic_tac_toe",
+      "icon": "https://tic-tac-toe-dev-a4076.web.app/icon_pr/icon_transparent_512.png",
+      "status": "coming_soon",
+      "url_app": "",
+      "loc": {
+        "en": {
+          "name": "Tic-Tac-Toe",
+          "shortDescription": "Classic 3×3 game for two players",
+          "installsDescription": "Up to 1,000 installs"
+        },
+        "ru": {
+          "name": "Крестики-нолики",
+          "shortDescription": "Классическая игра 3×3 для двух игроков",
+          "installsDescription": "До 1 000 установок"
+        },
+        "ar": {
+          "name": "إكس أو",
+          "shortDescription": "لعبة كلاسيكية 3×3 للاعبَين",
+          "installsDescription": "حتى 1000 عملية تثبيت"
+        },
+        "bg": {
+          "name": "Кръстчета и нулички",
+          "shortDescription": "Класическа игра 3×3 за двама играчи",
+          "installsDescription": "До 1000 инсталирания"
+        },
+        "hu": {
+          "name": "Tic-Tac-Toe",
+          "shortDescription": "Klasszikus 3×3-as játék két játékosnak",
+          "installsDescription": "Akár 1000 telepítés"
+        },
+        "el": {
+          "name": "Τρίλιζα",
+          "shortDescription": "Κλασικό παιχνίδι 3×3 για δύο παίκτες",
+          "installsDescription": "Έως 1.000 εγκαταστάσεις"
+        },
+        "da": {
+          "name": "Kryds og bolle",
+          "shortDescription": "Klassisk 3×3-spil for to spillere",
+          "installsDescription": "Op til 1.000 installationer"
+        },
+        "he": {
+          "name": "איקס עיגול",
+          "shortDescription": "משחק קלאסי 3×3 לשני שחקנים",
+          "installsDescription": "עד 1,000 התקנות"
+        },
+        "is": {
+          "name": "Þrír í röð",
+          "shortDescription": "Klassískur 3×3 leikur fyrir tvo leikmenn",
+          "installsDescription": "Allt að 1.000 uppsetningar"
+        },
+        "es": {
+          "name": "Tres en raya",
+          "shortDescription": "Juego clásico de 3×3 para dos jugadores",
+          "installsDescription": "Hasta 1000 instalaciones"
+        },
+        "it": {
+          "name": "Tris",
+          "shortDescription": "Il classico gioco 3×3 per due giocatori",
+          "installsDescription": "Fino a 1.000 installazioni"
+        },
+        "ca": {
+          "name": "Tres en ratlla",
+          "shortDescription": "Joc clàssic de 3×3 per a dos jugadors",
+          "installsDescription": "Fins a 1.000 instal·lacions"
+        },
+        "ko": {
+          "name": "틱택토",
+          "shortDescription": "두 명이 즐기는 클래식 3×3 게임",
+          "installsDescription": "최대 1,000회 설치"
+        },
+        "de": {
+          "name": "Tic-Tac-Toe",
+          "shortDescription": "Klassisches 3×3-Spiel für zwei Spieler",
+          "installsDescription": "Bis zu 1.000 Installationen"
+        },
+        "nl": {
+          "name": "Boter, kaas en eieren",
+          "shortDescription": "Klassiek 3×3-spel voor twee spelers",
+          "installsDescription": "Tot 1.000 installaties"
+        },
+        "no": {
+          "name": "Tripp trapp tresko",
+          "shortDescription": "Klassisk 3×3-spill for to spillere",
+          "installsDescription": "Opptil 1 000 installasjoner"
+        },
+        "pl": {
+          "name": "Kółko i krzyżyk",
+          "shortDescription": "Klasyczna gra 3×3 dla dwóch graczy",
+          "installsDescription": "Do 1000 instalacji"
+        },
+        "pt-br": {
+          "name": "Jogo da Velha",
+          "shortDescription": "Jogo clássico 3×3 para dois jogadores",
+          "installsDescription": "Até 1.000 instalações"
+        },
+        "pt-pt": {
+          "name": "Jogo do Galo",
+          "shortDescription": "Jogo clássico 3×3 para dois jogadores",
+          "installsDescription": "Até 1000 instalações"
+        },
+        "sk": {
+          "name": "Piškvorky",
+          "shortDescription": "Klasická hra 3×3 pre dvoch hráčov",
+          "installsDescription": "Až 1 000 inštalácií"
+        },
+        "fi": {
+          "name": "Ristinolla",
+          "shortDescription": "Klassinen 3×3-peli kahdelle pelaajalle",
+          "installsDescription": "Jopa 1 000 asennusta"
+        },
+        "fr": {
+          "name": "Morpion",
+          "shortDescription": "Le jeu classique 3×3 pour deux joueurs",
+          "installsDescription": "Jusqu'à 1 000 installations"
+        },
+        "hi": {
+          "name": "टिक-टैक-टो",
+          "shortDescription": "दो खिलाड़ियों के लिए क्लासिक 3×3 गेम",
+          "installsDescription": "1,000 तक इंस्टॉल"
+        },
+        "cs": {
+          "name": "Piškvorky",
+          "shortDescription": "Klasická hra 3×3 pro dva hráče",
+          "installsDescription": "Až 1 000 instalací"
+        },
+        "sv": {
+          "name": "Tre i rad",
+          "shortDescription": "Klassiskt 3×3-spel för två spelare",
+          "installsDescription": "Upp till 1 000 installationer"
+        },
+        "ja": {
+          "name": "三目並べ",
+          "shortDescription": "2人で遊べるクラシックな3×3ゲーム",
+          "installsDescription": "最大1,000インストール"
+        },
+        "vi": {
+          "name": "Cờ ca rô",
+          "shortDescription": "Trò chơi 3×3 cổ điển cho hai người chơi",
+          "installsDescription": "Tối đa 1.000 lượt cài đặt"
+        },
+        "id": {
+          "name": "Tic-Tac-Toe",
+          "shortDescription": "Permainan klasik 3×3 untuk dua pemain",
+          "installsDescription": "Hingga 1.000 instalasi"
+        },
+        "zh": {
+          "name": "井字棋",
+          "shortDescription": "经典 3×3 双人游戏",
+          "installsDescription": "最多 1,000 次安装"
+        },
+        "th": {
+          "name": "โอเอ็กซ์",
+          "shortDescription": "เกมคลาสสิก 3×3 สำหรับผู้เล่นสองคน",
+          "installsDescription": "ติดตั้งสูงสุด 1,000 ครั้ง"
+        },
+        "tr": {
+          "name": "XOX",
+          "shortDescription": "İki oyuncu için klasik 3×3 oyunu",
+          "installsDescription": "1.000'e kadar yükleme"
+        },
+        "kk": {
+          "name": "Ноль мен крест",
+          "shortDescription": "Екі ойыншыға арналған классикалық 3×3 ойыны",
+          "installsDescription": "1 000-ға дейін орнату"
+        },
+        "uk": {
+          "name": "Хрестики-нулики",
+          "shortDescription": "Класична гра 3×3 для двох гравців",
+          "installsDescription": "До 1 000 встановлень"
+        },
+        "ro": {
+          "name": "X și 0",
+          "shortDescription": "Joc clasic 3×3 pentru doi jucători",
+          "installsDescription": "Până la 1.000 de instalări"
+        },
+        "uz": {
+          "name": "Krestik-nolik",
+          "shortDescription": "Ikki o'yinchi uchun klassik 3×3 o'yini",
+          "installsDescription": "1 000 tagacha o'rnatish"
+        },
+        "az": {
+          "name": "XOX",
+          "shortDescription": "İki oyunçu üçün klassik 3×3 oyunu",
+          "installsDescription": "1000-ə qədər quraşdırma"
+        },
+        "mn": {
+          "name": "Тик-так-тоу",
+          "shortDescription": "Хоёр тоглогчид зориулсан сонгодог 3×3 тоглоом",
+          "installsDescription": "1,000 хүртэл суулгалт"
+        },
+        "default": {
+          "name": "Tic-Tac-Toe",
+          "shortDescription": "Classic 3×3 game for two players",
+          "installsDescription": "Up to 1,000 installs"
+        }
+      }
+    },
+    {
+	  "id": "reversi",
+      "icon": "https://tic-tac-toe-dev-a4076.web.app/icon_pr/reversi_icon_512.png",
+      "status": "coming_soon",
+      "url_app": "",
+      "loc": {
+        "en": {
+          "name": "Reversi",
+          "shortDescription": "Strategic board game of flipping discs",
+          "installsDescription": "Coming soon"
+        },
+        "ru": {
+          "name": "Реверси",
+          "shortDescription": "Стратегическая настольная игра на переворачивание фишек",
+          "installsDescription": "Скоро в каталоге"
+        },
+        "ar": {
+          "name": "ريفيرسي",
+          "shortDescription": "لعبة لوحية استراتيجية لقلب الأقراص",
+          "installsDescription": "قريبًا"
+        },
+        "bg": {
+          "name": "Реверси",
+          "shortDescription": "Стратегическа настолна игра с обръщане на фигури",
+          "installsDescription": "Скоро"
+        },
+        "hu": {
+          "name": "Reversi",
+          "shortDescription": "Stratégiai társasjáték korongok átfordításával",
+          "installsDescription": "Hamarosan"
+        },
+        "el": {
+          "name": "Ρεβέρσι",
+          "shortDescription": "Επιτραπέζιο παιχνίδι στρατηγικής με ανατροπή πούλιων",
+          "installsDescription": "Σύντομα"
+        },
+        "da": {
+          "name": "Reversi",
+          "shortDescription": "Strategisk brætspil med vending af brikker",
+          "installsDescription": "Kommer snart"
+        },
+        "he": {
+          "name": "ריברסי",
+          "shortDescription": "משחק לוח אסטרטגי להיפוך דיסקיות",
+          "installsDescription": "בקרוב"
+        },
+        "is": {
+          "name": "Reversi",
+          "shortDescription": "Herkænskuborðspil þar sem skífum er snúið við",
+          "installsDescription": "Væntanlegt"
+        },
+        "es": {
+          "name": "Reversi",
+          "shortDescription": "Juego de mesa estratégico de voltear fichas",
+          "installsDescription": "Próximamente"
+        },
+        "it": {
+          "name": "Reversi",
+          "shortDescription": "Gioco da tavolo strategico per ribaltare le pedine",
+          "installsDescription": "Prossimamente"
+        },
+        "ca": {
+          "name": "Reversi",
+          "shortDescription": "Joc de taula d'estratègia de girar fitxes",
+          "installsDescription": "Aviat disponible"
+        },
+        "ko": {
+          "name": "리버시",
+          "shortDescription": "돌을 뒤집는 전략 보드게임",
+          "installsDescription": "출시 예정"
+        },
+        "de": {
+          "name": "Reversi",
+          "shortDescription": "Strategisches Brettspiel zum Umdrehen von Steinen",
+          "installsDescription": "Demnächst verfügbar"
+        },
+        "nl": {
+          "name": "Reversi",
+          "shortDescription": "Strategisch bordspel met het omdraaien van schijven",
+          "installsDescription": "Binnenkort beschikbaar"
+        },
+        "no": {
+          "name": "Reversi",
+          "shortDescription": "Strategisk brettspill der man snur brikker",
+          "installsDescription": "Kommer snart"
+        },
+        "pl": {
+          "name": "Reversi",
+          "shortDescription": "Strategiczna gra planszowa polegająca na przewracaniu pionków",
+          "installsDescription": "Wkrótce"
+        },
+        "pt-br": {
+          "name": "Reversi",
+          "shortDescription": "Jogo de tabuleiro estratégico de virar peças",
+          "installsDescription": "Em breve"
+        },
+        "pt-pt": {
+          "name": "Reversi",
+          "shortDescription": "Jogo de tabuleiro estratégico de virar peças",
+          "installsDescription": "Brevemente"
+        },
+        "sk": {
+          "name": "Reversi",
+          "shortDescription": "Strategická stolová hra s otáčaním kameňov",
+          "installsDescription": "Čoskoro"
+        },
+        "fi": {
+          "name": "Reversi",
+          "shortDescription": "Strateginen lautapeli, jossa käännetään nappuloita",
+          "installsDescription": "Tulossa pian"
+        },
+        "fr": {
+          "name": "Reversi",
+          "shortDescription": "Jeu de plateau stratégique où l'on retourne des pions",
+          "installsDescription": "Bientôt disponible"
+        },
+        "hi": {
+          "name": "रिवर्सी",
+          "shortDescription": "गोटियाँ पलटने वाला रणनीतिक बोर्ड गेम",
+          "installsDescription": "जल्द आ रहा है"
+        },
+        "cs": {
+          "name": "Reversi",
+          "shortDescription": "Strategická desková hra s otáčením kamenů",
+          "installsDescription": "Již brzy"
+        },
+        "sv": {
+          "name": "Reversi",
+          "shortDescription": "Strategiskt brädspel där man vänder brickor",
+          "installsDescription": "Kommer snart"
+        },
+        "ja": {
+          "name": "リバーシ",
+          "shortDescription": "石をひっくり返す戦略ボードゲーム",
+          "installsDescription": "近日公開"
+        },
+        "vi": {
+          "name": "Reversi",
+          "shortDescription": "Trò chơi cờ chiến thuật lật quân",
+          "installsDescription": "Sắp ra mắt"
+        },
+        "id": {
+          "name": "Reversi",
+          "shortDescription": "Permainan papan strategi membalik cakram",
+          "installsDescription": "Segera hadir"
+        },
+        "zh": {
+          "name": "黑白棋",
+          "shortDescription": "翻转棋子的策略棋盘游戏",
+          "installsDescription": "即将上线"
+        },
+        "th": {
+          "name": "รีเวอร์ซี",
+          "shortDescription": "เกมกระดานกลยุทธ์พลิกหมาก",
+          "installsDescription": "เร็วๆ นี้"
+        },
+        "tr": {
+          "name": "Reversi",
+          "shortDescription": "Taşları çevirmeye dayalı stratejik masa oyunu",
+          "installsDescription": "Çok yakında"
+        },
+        "kk": {
+          "name": "Реверси",
+          "shortDescription": "Фишкаларды аудару арқылы ойналатын стратегиялық үстел ойыны",
+          "installsDescription": "Жақында"
+        },
+        "uk": {
+          "name": "Реверсі",
+          "shortDescription": "Стратегічна настільна гра з перевертанням фішок",
+          "installsDescription": "Незабаром"
+        },
+        "ro": {
+          "name": "Reversi",
+          "shortDescription": "Joc de masă strategic cu răsturnarea pieselor",
+          "installsDescription": "În curând"
+        },
+        "uz": {
+          "name": "Reversi",
+          "shortDescription": "Donalarni aylantirishga asoslangan strategik stol o'yini",
+          "installsDescription": "Tez orada"
+        },
+        "az": {
+          "name": "Reversi",
+          "shortDescription": "Daşları çevirməyə əsaslanan strateji stolüstü oyun",
+          "installsDescription": "Tezliklə"
+        },
+        "mn": {
+          "name": "Реверси",
+          "shortDescription": "Фишк эргүүлдэг стратегийн ширээний тоглоом",
+          "installsDescription": "Удахгүй"
+        },
+        "default": {
+          "name": "Reversi",
+          "shortDescription": "Strategic board game of flipping discs",
+          "installsDescription": "Coming soon"
+        }
+      }
+    },
+    {
+	  "id": "infection",
+      "icon": "https://tic-tac-toe-dev-a4076.web.app/icon_pr/words_icon_512_notext.png",
+      "status": "coming_soon",
+      "url_app": "",
+      "loc": {
+        "en": {
+          "name": "Words",
+          "shortDescription": "Form words from letters and score points",
+          "installsDescription": "Coming soon"
+        },
+        "ru": {
+          "name": "Слова",
+          "shortDescription": "Составляй слова из букв и набирай очки",
+          "installsDescription": "Скоро в каталоге"
+        },
+        "ar": {
+          "name": "كلمات",
+          "shortDescription": "كوّن كلمات من الحروف واجمع النقاط",
+          "installsDescription": "قريبًا"
+        },
+        "bg": {
+          "name": "Думи",
+          "shortDescription": "Съставяй думи от букви и печели точки",
+          "installsDescription": "Скоро"
+        },
+        "hu": {
+          "name": "Szavak",
+          "shortDescription": "Alkoss szavakat betűkből és gyűjts pontokat",
+          "installsDescription": "Hamarosan"
+        },
+        "el": {
+          "name": "Λέξεις",
+          "shortDescription": "Φτιάξε λέξεις από γράμματα και κέρδισε πόντους",
+          "installsDescription": "Σύντομα"
+        },
+        "da": {
+          "name": "Ord",
+          "shortDescription": "Dan ord af bogstaver og optjen point",
+          "installsDescription": "Kommer snart"
+        },
+        "he": {
+          "name": "מילים",
+          "shortDescription": "צרו מילים מאותיות וצברו נקודות",
+          "installsDescription": "בקרוב"
+        },
+        "is": {
+          "name": "Orð",
+          "shortDescription": "Myndaðu orð úr stöfum og safnaðu stigum",
+          "installsDescription": "Væntanlegt"
+        },
+        "es": {
+          "name": "Palabras",
+          "shortDescription": "Forma palabras con letras y consigue puntos",
+          "installsDescription": "Próximamente"
+        },
+        "it": {
+          "name": "Parole",
+          "shortDescription": "Forma parole con le lettere e fai punti",
+          "installsDescription": "Prossimamente"
+        },
+        "ca": {
+          "name": "Paraules",
+          "shortDescription": "Forma paraules amb lletres i suma punts",
+          "installsDescription": "Aviat disponible"
+        },
+        "ko": {
+          "name": "단어",
+          "shortDescription": "글자로 단어를 만들고 점수를 얻으세요",
+          "installsDescription": "출시 예정"
+        },
+        "de": {
+          "name": "Wörter",
+          "shortDescription": "Bilde Wörter aus Buchstaben und sammle Punkte",
+          "installsDescription": "Demnächst verfügbar"
+        },
+        "nl": {
+          "name": "Woorden",
+          "shortDescription": "Maak woorden van letters en scoor punten",
+          "installsDescription": "Binnenkort beschikbaar"
+        },
+        "no": {
+          "name": "Ord",
+          "shortDescription": "Lag ord av bokstaver og få poeng",
+          "installsDescription": "Kommer snart"
+        },
+        "pl": {
+          "name": "Słowa",
+          "shortDescription": "Układaj słowa z liter i zdobywaj punkty",
+          "installsDescription": "Wkrótce"
+        },
+        "pt-br": {
+          "name": "Palavras",
+          "shortDescription": "Forme palavras com letras e marque pontos",
+          "installsDescription": "Em breve"
+        },
+        "pt-pt": {
+          "name": "Palavras",
+          "shortDescription": "Forme palavras com letras e some pontos",
+          "installsDescription": "Brevemente"
+        },
+        "sk": {
+          "name": "Slová",
+          "shortDescription": "Skladaj slová z písmen a získavaj body",
+          "installsDescription": "Čoskoro"
+        },
+        "fi": {
+          "name": "Sanat",
+          "shortDescription": "Muodosta sanoja kirjaimista ja kerää pisteitä",
+          "installsDescription": "Tulossa pian"
+        },
+        "fr": {
+          "name": "Mots",
+          "shortDescription": "Forme des mots avec des lettres et marque des points",
+          "installsDescription": "Bientôt disponible"
+        },
+        "hi": {
+          "name": "शब्द",
+          "shortDescription": "अक्षरों से शब्द बनाएँ और अंक कमाएँ",
+          "installsDescription": "जल्द आ रहा है"
+        },
+        "cs": {
+          "name": "Slova",
+          "shortDescription": "Skládejte slova z písmen a získávejte body",
+          "installsDescription": "Již brzy"
+        },
+        "sv": {
+          "name": "Ord",
+          "shortDescription": "Bilda ord av bokstäver och samla poäng",
+          "installsDescription": "Kommer snart"
+        },
+        "ja": {
+          "name": "ワード",
+          "shortDescription": "文字から単語を作ってポイントを獲得",
+          "installsDescription": "近日公開"
+        },
+        "vi": {
+          "name": "Từ ngữ",
+          "shortDescription": "Ghép chữ cái thành từ và ghi điểm",
+          "installsDescription": "Sắp ra mắt"
+        },
+        "id": {
+          "name": "Kata",
+          "shortDescription": "Susun kata dari huruf dan kumpulkan poin",
+          "installsDescription": "Segera hadir"
+        },
+        "zh": {
+          "name": "单词",
+          "shortDescription": "用字母组成单词并获得积分",
+          "installsDescription": "即将上线"
+        },
+        "th": {
+          "name": "คำศัพท์",
+          "shortDescription": "สร้างคำจากตัวอักษรและทำคะแนน",
+          "installsDescription": "เร็วๆ นี้"
+        },
+        "tr": {
+          "name": "Kelimeler",
+          "shortDescription": "Harflerden kelimeler oluştur ve puan topla",
+          "installsDescription": "Çok yakında"
+        },
+        "kk": {
+          "name": "Сөздер",
+          "shortDescription": "Әріптерден сөз құрап, ұпай жина",
+          "installsDescription": "Жақында"
+        },
+        "uk": {
+          "name": "Слова",
+          "shortDescription": "Складай слова з літер і здобувай бали",
+          "installsDescription": "Незабаром"
+        },
+        "ro": {
+          "name": "Cuvinte",
+          "shortDescription": "Formează cuvinte din litere și câștigă puncte",
+          "installsDescription": "În curând"
+        },
+        "uz": {
+          "name": "So'zlar",
+          "shortDescription": "Harflardan so'z tuzing va ball to'plang",
+          "installsDescription": "Tez orada"
+        },
+        "az": {
+          "name": "Sözlər",
+          "shortDescription": "Hərflərdən söz düzəlt və xal topla",
+          "installsDescription": "Tezliklə"
+        },
+        "mn": {
+          "name": "Үгс",
+          "shortDescription": "Үсгээс үг бүтээж оноо цуглуул",
+          "installsDescription": "Удахгүй"
+        },
+        "default": {
+          "name": "Words",
+          "shortDescription": "Form words from letters and score points",
+          "installsDescription": "Coming soon"
+        }
+      }
+    }
+  ]
+}

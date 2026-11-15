@@ -6,35 +6,175 @@
       "status": "popular",
       "url_app": "https://www.rustore.ru/catalog/app/gorilla_group.tic_tac_toe",
       "loc": {
-        "ru": {
-          "name": "Крестики-нолики",
-          "shortDescription": "Классическая игра 3×3 для двух игроков",
-          "installsDescription": "До 1 000 установок"
-        },
         "en": {
           "name": "Tic-Tac-Toe",
           "shortDescription": "Classic 3×3 game for two players",
           "installsDescription": "Up to 1,000 installs"
         },
-        "uk": {
-          "name": "Хрестики-нулики",
-          "shortDescription": "Класична гра 3×3 для двох гравців",
-          "installsDescription": "До 1 000 встановлень"
+        "ru": {
+          "name": "Крестики-нолики",
+          "shortDescription": "Классическая игра 3×3 для двух игроков",
+          "installsDescription": "До 1 000 установок"
+        },
+        "ar": {
+          "name": "إكس أو",
+          "shortDescription": "لعبة كلاسيكية 3×3 للاعبَين",
+          "installsDescription": "حتى 1000 عملية تثبيت"
+        },
+        "bg": {
+          "name": "Кръстчета и нулички",
+          "shortDescription": "Класическа игра 3×3 за двама играчи",
+          "installsDescription": "До 1000 инсталирания"
+        },
+        "hu": {
+          "name": "Tic-Tac-Toe",
+          "shortDescription": "Klasszikus 3×3-as játék két játékosnak",
+          "installsDescription": "Akár 1000 telepítés"
+        },
+        "el": {
+          "name": "Τρίλιζα",
+          "shortDescription": "Κλασικό παιχνίδι 3×3 για δύο παίκτες",
+          "installsDescription": "Έως 1.000 εγκαταστάσεις"
+        },
+        "da": {
+          "name": "Kryds og bolle",
+          "shortDescription": "Klassisk 3×3-spil for to spillere",
+          "installsDescription": "Op til 1.000 installationer"
+        },
+        "he": {
+          "name": "איקס עיגול",
+          "shortDescription": "משחק קלאסי 3×3 לשני שחקנים",
+          "installsDescription": "עד 1,000 התקנות"
+        },
+        "is": {
+          "name": "Þrír í röð",
+          "shortDescription": "Klassískur 3×3 leikur fyrir tvo leikmenn",
+          "installsDescription": "Allt að 1.000 uppsetningar"
+        },
+        "es": {
+          "name": "Tres en raya",
+          "shortDescription": "Juego clásico de 3×3 para dos jugadores",
+          "installsDescription": "Hasta 1000 instalaciones"
+        },
+        "it": {
+          "name": "Tris",
+          "shortDescription": "Il classico gioco 3×3 per due giocatori",
+          "installsDescription": "Fino a 1.000 installazioni"
+        },
+        "ca": {
+          "name": "Tres en ratlla",
+          "shortDescription": "Joc clàssic de 3×3 per a dos jugadors",
+          "installsDescription": "Fins a 1.000 instal·lacions"
+        },
+        "ko": {
+          "name": "틱택토",
+          "shortDescription": "두 명이 즐기는 클래식 3×3 게임",
+          "installsDescription": "최대 1,000회 설치"
+        },
+        "de": {
+          "name": "Tic-Tac-Toe",
+          "shortDescription": "Klassisches 3×3-Spiel für zwei Spieler",
+          "installsDescription": "Bis zu 1.000 Installationen"
+        },
+        "nl": {
+          "name": "Boter, kaas en eieren",
+          "shortDescription": "Klassiek 3×3-spel voor twee spelers",
+          "installsDescription": "Tot 1.000 installaties"
+        },
+        "no": {
+          "name": "Tripp trapp tresko",
+          "shortDescription": "Klassisk 3×3-spill for to spillere",
+          "installsDescription": "Opptil 1 000 installasjoner"
         },
         "pl": {
           "name": "Kółko i krzyżyk",
           "shortDescription": "Klasyczna gra 3×3 dla dwóch graczy",
           "installsDescription": "Do 1 000 instalacji"
         },
-        "ro": {
-          "name": "X și 0",
-          "shortDescription": "Joc clasic 3×3 pentru doi jucători",
-          "installsDescription": "Până la 1 000 de instalări"
+        "pt-br": {
+          "name": "Jogo da Velha",
+          "shortDescription": "Jogo clássico 3×3 para dois jogadores",
+          "installsDescription": "Até 1.000 instalações"
+        },
+        "pt-pt": {
+          "name": "Jogo do Galo",
+          "shortDescription": "Jogo clássico 3×3 para dois jogadores",
+          "installsDescription": "Até 1000 instalações"
+        },
+        "sk": {
+          "name": "Piškvorky",
+          "shortDescription": "Klasická hra 3×3 pre dvoch hráčov",
+          "installsDescription": "Až 1 000 inštalácií"
+        },
+        "fi": {
+          "name": "Ristinolla",
+          "shortDescription": "Klassinen 3×3-peli kahdelle pelaajalle",
+          "installsDescription": "Jopa 1 000 asennusta"
+        },
+        "fr": {
+          "name": "Morpion",
+          "shortDescription": "Le jeu classique 3×3 pour deux joueurs",
+          "installsDescription": "Jusqu'à 1 000 installations"
+        },
+        "hi": {
+          "name": "टिक-टैक-टो",
+          "shortDescription": "दो खिलाड़ियों के लिए क्लासिक 3×3 गेम",
+          "installsDescription": "1,000 तक इंस्टॉल"
+        },
+        "cs": {
+          "name": "Piškvorky",
+          "shortDescription": "Klasická hra 3×3 pro dva hráče",
+          "installsDescription": "Až 1 000 instalací"
+        },
+        "sv": {
+          "name": "Tre i rad",
+          "shortDescription": "Klassiskt 3×3-spel för två spelare",
+          "installsDescription": "Upp till 1 000 installationer"
+        },
+        "ja": {
+          "name": "三目並べ",
+          "shortDescription": "2人で遊べるクラシックな3×3ゲーム",
+          "installsDescription": "最大1,000インストール"
+        },
+        "vi": {
+          "name": "Cờ ca rô",
+          "shortDescription": "Trò chơi 3×3 cổ điển cho hai người chơi",
+          "installsDescription": "Tối đa 1.000 lượt cài đặt"
+        },
+        "id": {
+          "name": "Tic-Tac-Toe",
+          "shortDescription": "Permainan klasik 3×3 untuk dua pemain",
+          "installsDescription": "Hingga 1.000 instalasi"
+        },
+        "zh": {
+          "name": "井字棋",
+          "shortDescription": "经典 3×3 双人游戏",
+          "installsDescription": "最多 1,000 次安装"
+        },
+        "th": {
+          "name": "โอเอ็กซ์",
+          "shortDescription": "เกมคลาสสิก 3×3 สำหรับผู้เล่นสองคน",
+          "installsDescription": "ติดตั้งสูงสุด 1,000 ครั้ง"
+        },
+        "tr": {
+          "name": "XOX",
+          "shortDescription": "İki oyuncu için klasik 3×3 oyun",
+          "installsDescription": "1.000'e kadar yükleme"
         },
         "kk": {
           "name": "Крестиктер мен нөлдер",
           "shortDescription": "Екі ойыншыға арналған классикалық 3×3 ойын",
           "installsDescription": "1 000-ға дейін орнату"
+        },
+        "uk": {
+          "name": "Хрестики-нулики",
+          "shortDescription": "Класична гра 3×3 для двох гравців",
+          "installsDescription": "До 1 000 встановлень"
+        },
+        "ro": {
+          "name": "X și 0",
+          "shortDescription": "Joc clasic 3×3 pentru doi jucători",
+          "installsDescription": "Până la 1 000 de instalări"
         },
         "uz": {
           "name": "X va O",
@@ -45,11 +185,6 @@
           "name": "Xaç və sıfır",
           "shortDescription": "İki oyunçu üçün klassik 3×3 oyun",
           "installsDescription": "1 000-ə qədər quraşdırma"
-        },
-        "tr": {
-          "name": "XOX",
-          "shortDescription": "İki oyuncu için klasik 3×3 oyun",
-          "installsDescription": "1.000'e kadar yükleme"
         },
         "mn": {
           "name": "Хөлөгт тоглоом",
@@ -69,35 +204,175 @@
       "status": "popular",
       "url_app": "https://www.rustore.ru/catalog/app/gorilla_group.reversi",
       "loc": {
-        "ru": {
-          "name": "Реверси",
-          "shortDescription": "Стратегическая настольная игра на переворачивание фишек",
-          "installsDescription": "До 1 000 установок"
-        },
         "en": {
           "name": "Reversi",
           "shortDescription": "Strategic board game of flipping discs",
           "installsDescription": "Up to 1,000 installs"
         },
-        "uk": {
-          "name": "Реверсі",
-          "shortDescription": "Стратегічна настільна гра з перевертанням фішок",
-          "installsDescription": "До 1 000 встановлень"
+        "ru": {
+          "name": "Реверси",
+          "shortDescription": "Стратегическая настольная игра на переворачивание фишек",
+          "installsDescription": "До 1 000 установок"
+        },
+        "ar": {
+          "name": "ريفيرسي",
+          "shortDescription": "لعبة لوحية استراتيجية لقلب الأقراص",
+          "installsDescription": "حتى 1000 عملية تثبيت"
+        },
+        "bg": {
+          "name": "Реверси",
+          "shortDescription": "Стратегическа настолна игра с обръщане на фигури",
+          "installsDescription": "До 1000 инсталирания"
+        },
+        "hu": {
+          "name": "Reversi",
+          "shortDescription": "Stratégiai társasjáték korongok átfordításával",
+          "installsDescription": "Akár 1000 telepítés"
+        },
+        "el": {
+          "name": "Ρεβέρσι",
+          "shortDescription": "Επιτραπέζιο παιχνίδι στρατηγικής με ανατροπή πούλιων",
+          "installsDescription": "Έως 1.000 εγκαταστάσεις"
+        },
+        "da": {
+          "name": "Reversi",
+          "shortDescription": "Strategisk brætspil med vending af brikker",
+          "installsDescription": "Op til 1.000 installationer"
+        },
+        "he": {
+          "name": "ריברסי",
+          "shortDescription": "משחק לוח אסטרטגי להיפוך דיסקיות",
+          "installsDescription": "עד 1,000 התקנות"
+        },
+        "is": {
+          "name": "Reversi",
+          "shortDescription": "Herkænskuborðspil þar sem skífum er snúið við",
+          "installsDescription": "Allt að 1.000 uppsetningar"
+        },
+        "es": {
+          "name": "Reversi",
+          "shortDescription": "Juego de mesa estratégico de voltear fichas",
+          "installsDescription": "Hasta 1000 instalaciones"
+        },
+        "it": {
+          "name": "Reversi",
+          "shortDescription": "Gioco da tavolo strategico per ribaltare le pedine",
+          "installsDescription": "Fino a 1.000 installazioni"
+        },
+        "ca": {
+          "name": "Reversi",
+          "shortDescription": "Joc de taula d'estratègia de girar fitxes",
+          "installsDescription": "Fins a 1.000 instal·lacions"
+        },
+        "ko": {
+          "name": "리버시",
+          "shortDescription": "돌을 뒤집는 전략 보드게임",
+          "installsDescription": "최대 1,000회 설치"
+        },
+        "de": {
+          "name": "Reversi",
+          "shortDescription": "Strategisches Brettspiel zum Umdrehen von Steinen",
+          "installsDescription": "Bis zu 1.000 Installationen"
+        },
+        "nl": {
+          "name": "Reversi",
+          "shortDescription": "Strategisch bordspel met het omdraaien van schijven",
+          "installsDescription": "Tot 1.000 installaties"
+        },
+        "no": {
+          "name": "Reversi",
+          "shortDescription": "Strategisk brettspill der man snur brikker",
+          "installsDescription": "Opptil 1 000 installasjoner"
         },
         "pl": {
           "name": "Reversi",
           "shortDescription": "Strategiczna gra planszowa polegająca na odwracaniu pionków",
           "installsDescription": "Do 1 000 instalacji"
         },
-        "ro": {
+        "pt-br": {
           "name": "Reversi",
-          "shortDescription": "Joc de strategie în care întorci piesele",
-          "installsDescription": "Până la 1.000 de instalări"
+          "shortDescription": "Jogo de tabuleiro estratégico de virar peças",
+          "installsDescription": "Até 1.000 instalações"
+        },
+        "pt-pt": {
+          "name": "Reversi",
+          "shortDescription": "Jogo de tabuleiro estratégico de virar peças",
+          "installsDescription": "Até 1000 instalações"
+        },
+        "sk": {
+          "name": "Reversi",
+          "shortDescription": "Strategická stolová hra s otáčaním kameňov",
+          "installsDescription": "Až 1 000 inštalácií"
+        },
+        "fi": {
+          "name": "Reversi",
+          "shortDescription": "Strateginen lautapeli, jossa käännetään nappuloita",
+          "installsDescription": "Jopa 1 000 asennusta"
+        },
+        "fr": {
+          "name": "Reversi",
+          "shortDescription": "Jeu de plateau stratégique où l'on retourne des pions",
+          "installsDescription": "Jusqu'à 1 000 installations"
+        },
+        "hi": {
+          "name": "रिवर्सी",
+          "shortDescription": "गोटियाँ पलटने वाला रणनीतिक बोर्ड गेम",
+          "installsDescription": "1,000 तक इंस्टॉल"
+        },
+        "cs": {
+          "name": "Reversi",
+          "shortDescription": "Strategická desková hra s otáčením kamenů",
+          "installsDescription": "Až 1 000 instalací"
+        },
+        "sv": {
+          "name": "Reversi",
+          "shortDescription": "Strategiskt brädspel där man vänder brickor",
+          "installsDescription": "Upp till 1 000 installationer"
+        },
+        "ja": {
+          "name": "リバーシ",
+          "shortDescription": "石をひっくり返す戦略ボードゲーム",
+          "installsDescription": "最大1,000インストール"
+        },
+        "vi": {
+          "name": "Reversi",
+          "shortDescription": "Trò chơi cờ chiến thuật lật quân",
+          "installsDescription": "Tối đa 1.000 lượt cài đặt"
+        },
+        "id": {
+          "name": "Reversi",
+          "shortDescription": "Permainan papan strategi membalik cakram",
+          "installsDescription": "Hingga 1.000 instalasi"
+        },
+        "zh": {
+          "name": "黑白棋",
+          "shortDescription": "翻转棋子的策略棋盘游戏",
+          "installsDescription": "最多 1,000 次安装"
+        },
+        "th": {
+          "name": "รีเวอร์ซี",
+          "shortDescription": "เกมกระดานกลยุทธ์พลิกหมาก",
+          "installsDescription": "ติดตั้งสูงสุด 1,000 ครั้ง"
+        },
+        "tr": {
+          "name": "Reversi",
+          "shortDescription": "Diskleri çevirmeye dayalı stratejik masa oyunu",
+          "installsDescription": "1.000’e kadar yükleme"
         },
         "kk": {
           "name": "Реверси",
           "shortDescription": "Фишкаларды аударуға негізделген стратегиялық үстел ойыны",
           "installsDescription": "1 000-ға дейін орнату"
+        },
+        "uk": {
+          "name": "Реверсі",
+          "shortDescription": "Стратегічна настільна гра з перевертанням фішок",
+          "installsDescription": "До 1 000 встановлень"
+        },
+        "ro": {
+          "name": "Reversi",
+          "shortDescription": "Joc de strategie în care întorci piesele",
+          "installsDescription": "Până la 1.000 de instalări"
         },
         "uz": {
           "name": "Reversi",
@@ -108,11 +383,6 @@
           "name": "Reversi",
           "shortDescription": "Daşları çevirməyə əsaslanan strateji stolüstü oyun",
           "installsDescription": "1 000-ə qədər quraşdırma"
-        },
-        "tr": {
-          "name": "Reversi",
-          "shortDescription": "Diskleri çevirmeye dayalı stratejik masa oyunu",
-          "installsDescription": "1.000’e kadar yükleme"
         },
         "mn": {
           "name": "Реверси",
@@ -129,38 +399,178 @@
     {
       "id": "infection",
       "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/infection_512.png",
-      "status": "coming_soon",
-      "url_app": "",
+      "status": "popular", // coming_soon, popular
+      "url_app": "https://www.rustore.ru/catalog/app/gorilla_group.infection",
       "loc": {
-        "ru": {
-          "name": "Инфекция",
-          "shortDescription": "Распространяй инфекцию и захватывай мир",
-          "installsDescription": "Скоро в каталоге"
-        },
         "en": {
           "name": "Infection",
           "shortDescription": "Spread the infection and take over the world",
           "installsDescription": "Coming soon"
         },
-        "uk": {
-          "name": "Інфекція",
-          "shortDescription": "Поширюй інфекцію та захоплюй світ",
-          "installsDescription": "Незабаром у каталозі"
+        "ru": {
+          "name": "Инфекция",
+          "shortDescription": "Распространяй инфекцию и захватывай мир",
+          "installsDescription": "Скоро в каталоге"
+        },
+        "ar": {
+          "name": "العدوى",
+          "shortDescription": "انشر العدوى واستولِ على العالم",
+          "installsDescription": "قريبًا"
+        },
+        "bg": {
+          "name": "Инфекция",
+          "shortDescription": "Разпространявай инфекцията и завладей света",
+          "installsDescription": "Скоро"
+        },
+        "hu": {
+          "name": "Fertőzés",
+          "shortDescription": "Terjeszd a fertőzést és hódítsd meg a világot",
+          "installsDescription": "Hamarosan"
+        },
+        "el": {
+          "name": "Μόλυνση",
+          "shortDescription": "Εξάπλωσε τη μόλυνση και κατάκτησε τον κόσμο",
+          "installsDescription": "Σύντομα"
+        },
+        "da": {
+          "name": "Infektion",
+          "shortDescription": "Spred infektionen og indtag verden",
+          "installsDescription": "Kommer snart"
+        },
+        "he": {
+          "name": "הדבקה",
+          "shortDescription": "הפיצו את ההדבקה וכבשו את העולם",
+          "installsDescription": "בקרוב"
+        },
+        "is": {
+          "name": "Smit",
+          "shortDescription": "Dreifðu smitinu og leggðu heiminn undir þig",
+          "installsDescription": "Væntanlegt"
+        },
+        "es": {
+          "name": "Infección",
+          "shortDescription": "Propaga la infección y conquista el mundo",
+          "installsDescription": "Próximamente"
+        },
+        "it": {
+          "name": "Infezione",
+          "shortDescription": "Diffondi l'infezione e conquista il mondo",
+          "installsDescription": "Prossimamente"
+        },
+        "ca": {
+          "name": "Infecció",
+          "shortDescription": "Propaga la infecció i conquereix el món",
+          "installsDescription": "Aviat disponible"
+        },
+        "ko": {
+          "name": "감염",
+          "shortDescription": "감염을 퍼뜨리고 세상을 정복하세요",
+          "installsDescription": "출시 예정"
+        },
+        "de": {
+          "name": "Infektion",
+          "shortDescription": "Verbreite die Infektion und erobere die Welt",
+          "installsDescription": "Demnächst verfügbar"
+        },
+        "nl": {
+          "name": "Infectie",
+          "shortDescription": "Verspreid de infectie en verover de wereld",
+          "installsDescription": "Binnenkort beschikbaar"
+        },
+        "no": {
+          "name": "Infeksjon",
+          "shortDescription": "Spre infeksjonen og erobre verden",
+          "installsDescription": "Kommer snart"
         },
         "pl": {
           "name": "Infekcja",
           "shortDescription": "Rozprzestrzeniaj infekcję i przejmuj świat",
           "installsDescription": "Wkrótce w katalogu"
         },
-        "ro": {
-          "name": "Infecție",
-          "shortDescription": "Răspândește infecția și cucerește lumea",
-          "installsDescription": "În curând în catalog"
+        "pt-br": {
+          "name": "Infecção",
+          "shortDescription": "Espalhe a infecção e conquiste o mundo",
+          "installsDescription": "Em breve"
+        },
+        "pt-pt": {
+          "name": "Infeção",
+          "shortDescription": "Espalhe a infeção e conquiste o mundo",
+          "installsDescription": "Brevemente"
+        },
+        "sk": {
+          "name": "Infekcia",
+          "shortDescription": "Šír infekciu a ovládni svet",
+          "installsDescription": "Čoskoro"
+        },
+        "fi": {
+          "name": "Tartunta",
+          "shortDescription": "Levitä tartuntaa ja valloita maailma",
+          "installsDescription": "Tulossa pian"
+        },
+        "fr": {
+          "name": "Infection",
+          "shortDescription": "Propage l'infection et conquiers le monde",
+          "installsDescription": "Bientôt disponible"
+        },
+        "hi": {
+          "name": "संक्रमण",
+          "shortDescription": "संक्रमण फैलाएँ और दुनिया पर कब्ज़ा करें",
+          "installsDescription": "जल्द आ रहा है"
+        },
+        "cs": {
+          "name": "Infekce",
+          "shortDescription": "Šiř infekci a ovládni svět",
+          "installsDescription": "Již brzy"
+        },
+        "sv": {
+          "name": "Infektion",
+          "shortDescription": "Sprid infektionen och ta över världen",
+          "installsDescription": "Kommer snart"
+        },
+        "ja": {
+          "name": "インフェクション",
+          "shortDescription": "感染を広めて世界を制圧しよう",
+          "installsDescription": "近日公開"
+        },
+        "vi": {
+          "name": "Lây nhiễm",
+          "shortDescription": "Lây lan dịch bệnh và chiếm lĩnh thế giới",
+          "installsDescription": "Sắp ra mắt"
+        },
+        "id": {
+          "name": "Infeksi",
+          "shortDescription": "Sebarkan infeksi dan kuasai dunia",
+          "installsDescription": "Segera hadir"
+        },
+        "zh": {
+          "name": "感染",
+          "shortDescription": "散播感染，征服世界",
+          "installsDescription": "即将上线"
+        },
+        "th": {
+          "name": "การติดเชื้อ",
+          "shortDescription": "แพร่เชื้อและยึดครองโลก",
+          "installsDescription": "เร็วๆ นี้"
+        },
+        "tr": {
+          "name": "Enfeksiyon",
+          "shortDescription": "Enfeksiyonu yay ve dünyayı ele geçir",
+          "installsDescription": "Yakında katalogda"
         },
         "kk": {
           "name": "Инфекция",
           "shortDescription": "Инфекцияны таратып, әлемді басып ал",
           "installsDescription": "Жақында каталогта"
+        },
+        "uk": {
+          "name": "Інфекція",
+          "shortDescription": "Поширюй інфекцію та захоплюй світ",
+          "installsDescription": "Незабаром у каталозі"
+        },
+        "ro": {
+          "name": "Infecție",
+          "shortDescription": "Răspândește infecția și cucerește lumea",
+          "installsDescription": "În curând în catalog"
         },
         "uz": {
           "name": "Infeksiya",
@@ -171,11 +581,6 @@
           "name": "İnfeksiya",
           "shortDescription": "İnfeksiyanı yay və dünyanı ələ keçir",
           "installsDescription": "Tezliklə kataloqda"
-        },
-        "tr": {
-          "name": "Enfeksiyon",
-          "shortDescription": "Enfeksiyonu yay ve dünyayı ele geçir",
-          "installsDescription": "Yakında katalogda"
         },
         "mn": {
           "name": "Халдвар",
