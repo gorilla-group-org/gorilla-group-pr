@@ -735,9 +735,9 @@
 	может список расширяться
   -->
   <AppLinks>
-    <Link name="GooglePlay">https://tic-tac-toe-dev-a4076.web.app/apps_catalog.GooglePlay.json</Link>
+    <Link name="GooglePlay">https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/apps_catalog.GooglePlay.json</Link>
     <Link name="RuStore">https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/apps_catalog.RuStore.json</Link>
-    <Link name="AppGallery">https://tic-tac-toe-dev-a4076.web.app/apps_catalog.AppGallery.json</Link>
+    <Link name="AppGallery">https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/apps_catalog.AppGallery.json</Link>
   </AppLinks> 
 
   <PromoCodes>
