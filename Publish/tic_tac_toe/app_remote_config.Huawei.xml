@@ -649,8 +649,8 @@
 		TermsOfUse - Условия использования
   -->
   <RemoteLinks>
-    <Link name="ReviewRuStore">https://apps.rustore.ru/app/gorilla_group.tic_tac_toe</Link>
-    <Link name="PrivacyPolicy"></Link>
+    <Link name="ReviewRuStore"></Link>
+    <Link name="PrivacyPolicy">https://android.astrasen.com/privacy/Astrasen/privacy.html</Link>
     <Link name="TermsOfUse"></Link>
     <Link name="Support"></Link>
     <Link name="Telegram">https://t.me/gorilla_group/9</Link>
