@@ -2,7 +2,7 @@
   "apps": [
     {
       "id": "tic_tac_toe",
-      "icon": "https://tic-tac-toe-dev-a4076.web.app/icon_pr/icon_transparent_512.png",
+      "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/icon_transparent_512.png",
       "status": "coming_soon",
       "url_app": "",
       "loc": {
@@ -200,7 +200,7 @@
     },
     {
 	  "id": "reversi",
-      "icon": "https://tic-tac-toe-dev-a4076.web.app/icon_pr/reversi_icon_512.png",
+      "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/reversi_icon_512.png",
       "status": "coming_soon",
       "url_app": "",
       "loc": {
@@ -398,7 +398,7 @@
     },
     {
 	  "id": "infection",
-      "icon": "https://tic-tac-toe-dev-a4076.web.app/icon_pr/words_icon_512_notext.png",
+      "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/infection_512.png",
       "status": "coming_soon",
       "url_app": "",
       "loc": {
