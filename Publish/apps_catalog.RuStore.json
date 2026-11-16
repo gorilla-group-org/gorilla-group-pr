@@ -1,6 +1,7 @@
 {
   "apps": [
     {
+      "_comment": "popular, coming_soon",
       "id": "tic_tac_toe",
       "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/icon_transparent_512.png",
       "status": "popular",
@@ -399,7 +400,7 @@
     {
       "id": "infection",
       "icon": "https://raw.githubusercontent.com/gorilla-group-org/gorilla-group-pr/refs/heads/main/Publish/icon_pr/infection_512.png",
-      "status": "popular", // coming_soon, popular
+      "status": "popular",
       "url_app": "https://www.rustore.ru/catalog/app/gorilla_group.infection",
       "loc": {
         "en": {
